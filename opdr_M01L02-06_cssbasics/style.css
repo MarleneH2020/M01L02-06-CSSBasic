@@ -1,0 +1,25 @@
+body { 
+    background-color: #f6f6f6;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.black-border {
+    border: 1px dotted hsl(305, 100%, 50%);
+}
+
+.Tekstbox1 {color: blue;
+    font : normal 14ox Helvetica, Arial, Sans-serif;
+}
+
+#green-background {
+    background-color:greenyellow;
+}
+
+#Yellow-background {
+    background-color: hsl(56, 100%, 86%) ;
+}
+
+#Pink-background {
+    background-color: hsl(290, 100%, 86%) ;
+}
